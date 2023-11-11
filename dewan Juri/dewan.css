@@ -174,7 +174,7 @@ body {
 .mid-table, .mid-table td, .mid-table tr {
   border: 1px solid black;
   border-collapse: collapse;
-  width: 220px;
+  width: 13vw;
   text-align: center;
   height: 50px;
 }
@@ -250,12 +250,12 @@ body {
 }
 
 .mid-container {
-  /* background-color: green; */
   display: flex;
   flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
-  width: 21%;
+  justify-content: center;
+  width: 350px;
   height: 289px;
   margin-top: 5px;
 }
