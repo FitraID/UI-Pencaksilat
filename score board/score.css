@@ -290,7 +290,7 @@
     background: linear-gradient(180deg, #000 0%, rgb(180, 180, 180) 100%);
     border: 1px solid black;
     color: var(--putih);
-    width: 150px;
+    width: 15%;
     height: 70px;
     border-radius: 5px;
     display: flex;
@@ -303,7 +303,7 @@
     background: linear-gradient(180deg, #8E8E8E 0%, #000 76.56%);
     border: 1px solid black;
     color: var(--putih);
-    width: 150px;
+    width: 15%;
     height: 70px;
     border-radius: 5px;
     display: flex;
