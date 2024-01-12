@@ -1,0 +1,19 @@
+.form-floating {
+    position: relative;
+}
+
+.icon {
+    position: absolute;
+    top: calc(36%);
+    left: .8rem;
+}
+
+.forma {
+    width: 400px;
+}
+
+@media only screen and (max-width: 600px) {
+    .forma {
+        width: 200px;
+    }
+  }
